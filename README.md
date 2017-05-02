@@ -15,3 +15,5 @@ allows the Hostable Web Core to serve the WCF service in the library project.
       <add name="svc-Integrated" path="*.svc" verb="*" type="System.ServiceModel.Activation.HttpHandler, System.ServiceModel.Activation, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" />
     </handlers>
 ```
+
+![alt text](https://github.com/reagul/WCFServiceSample/blob/master/PCF-WCF_Sample.png)
