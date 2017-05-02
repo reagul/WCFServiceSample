@@ -1,0 +1,8 @@
+C:\Users\Administrator\Downloads\WCFSERVICE\WCFServiceSample\Sneal.Service.IIS\bin\Sneal.Service.IIS.dll.config
+C:\Users\Administrator\Downloads\WCFSERVICE\WCFServiceSample\Sneal.Service.IIS\bin\Sneal.Service.IIS.dll
+C:\Users\Administrator\Downloads\WCFSERVICE\WCFServiceSample\Sneal.Service.IIS\bin\Sneal.Service.IIS.pdb
+C:\Users\Administrator\Downloads\WCFSERVICE\WCFServiceSample\Sneal.Service.IIS\bin\Sneal.Service.dll
+C:\Users\Administrator\Downloads\WCFSERVICE\WCFServiceSample\Sneal.Service.IIS\bin\Sneal.Service.pdb
+C:\Users\Administrator\Downloads\WCFSERVICE\WCFServiceSample\Sneal.Service.IIS\obj\Release\Sneal.Service.IIS.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Downloads\WCFSERVICE\WCFServiceSample\Sneal.Service.IIS\obj\Release\Sneal.Service.IIS.dll
+C:\Users\Administrator\Downloads\WCFSERVICE\WCFServiceSample\Sneal.Service.IIS\obj\Release\Sneal.Service.IIS.pdb
